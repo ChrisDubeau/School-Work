@@ -1,0 +1,29 @@
+Name: Christopher Dubeau
+Id#:  1793075
+class: Cmpt 360 Assignment 3
+
+The pw_crack takes in a file with common passwords and a file of hashes for
+passwords it then finds the MD5 and Blowfish hashes for each line attempting
+to find the password that was used. The process then prints out the given 
+hashes with passwords if one was found or with out if none was found.
+
+To run this program a person need to have a file named bcrypt with a bcrypt.a
+inside this way it can access the needed functions for the blowfish hashing.
+
+NOTE: if the user wished to have the bcrypt .a not inside of a file they will
+need to change the makefile to say bcrypt.a instead of bcrypt/bcrypt.a as well
+in the pw_crack.c the import bcrypt/bcrypt.a will need to have the bcrypt/ 
+removed
+
+To compile the program the user just needs to enter make into the command line
+
+To run the program the user need to have the executable followed by a valid
+file containing the common passwords then a valid file with the hash values
+
+Ex. pw_crack passwords.txt hashvalues.txt the function will then run to
+completion.
+
+Note: There was a weird bug where the process would segfault when run however
+when run in gdb debugger would not segfault ever. This issue appears solved
+in the event of a segfault please try running the program a couple more times
+in the event the error arises again.

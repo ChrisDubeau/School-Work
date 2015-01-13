@@ -1,0 +1,18 @@
+Name: Christopher Dubeau
+Student #: 1793075
+username: Dubeauc3
+
+The program dirsweeper is a directory cleaner that eather removes files that are older than a
+given time or remove files till a directory is under a given size. The program uses fork to
+call multiple children processes to watch multiple directories at a single time.
+
+Commands:
+	make: will create the dirsweeper executable
+	
+	make clean: removes all non essential files(.o files and dirsweeper after execution)
+
+Command line:
+
+	To begin the dirsweeper the structure of "dirsweeper [FileName]" where the lone
+command line argument is the pathname to a configuration file.
+
