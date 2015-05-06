@@ -1,6 +1,4 @@
 Name: Christopher Dubeau
-Student #: 1793075
-username: Dubeauc3
 
 The program dirsweeper is a directory cleaner that eather removes files that are older than a
 given time or remove files till a directory is under a given size. The program uses fork to
