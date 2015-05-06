@@ -1,6 +1,5 @@
 Name: Christopher Dubeau
-Id#:  1793075
-class: Cmpt 360 Assignment 3
+
 
 The pw_crack takes in a file with common passwords and a file of hashes for
 passwords it then finds the MD5 and Blowfish hashes for each line attempting
