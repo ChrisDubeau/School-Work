@@ -1,0 +1,7 @@
+Joe Green, Edmonton, 200
+Adam Blue, Toronto, 1900
+Carl Red, Edmonton, 400
+Joe Green, Montreal, 700
+Adam Blue, Edmonton, 750
+Joe Green, Montreal, 1200
+Carl Red, Edmonton, 2

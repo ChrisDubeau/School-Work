@@ -1,0 +1,120 @@
+The Banner Saga
+Strategy
+RP
+86
+The Banner Saga is a role-playing game merged with turn-based strategy, wrapped into an adventure mini-series about vikings. Travel through stunning landscapes straight out of an animated film. Battle painstakingly hand-animated foes in strategic, turn-based combat harkening back to the classic "Tactics" days of gaming. Make decisions with consequences in conversations with people you'll truly care about. And throughout the whole thing record the history of your people on your banner where it will be remembered, because soon there might not be anything left.
+Pictures/TheBannerSaga.jpg
+Tomb Raider
+Action
+M
+91
+Tomb Raider delivers an intense and gritty story of the origins of Lara Croft and her ascent from frightened young woman to hardened survivor, armed with only raw instincts and the physical ability to push beyond the limits of human endurance. Superb physics-based gameplay is paired with a heart-pounding narrative in Lara's most personal, character-defining adventure to date.
+Pictures/TombRaider.jpg
+Gone Home
+Simulation
+E
+91
+Gone Home is a conceptual simulation game somewhat themed after classic adventure titles where how you interact with space around your characters determines how far you progress in the game. This title is all about exploring a modern, residential locale, and discovering the story of what happened there by investigating a deeply interactive gameworld. The development team aims to push for true simulation,both in the sense of the physics system but also in allowing the player to open any door or drawer they'd logically be able to and examine what's inside, down to small details.
+Pictures/gonehome.jpg
+Rayman Origins
+Platformer
+E
+95
+When the Glade of Dreams is overrun by nefurrious Darktoons, the Fairy Council hastily invokes Rayman to save the day. To help him, Rayman teams up with his best friend, Globox, and two crafty wizards, the Teensies. Together, the world's most hilarious team of heroes will need to restore peace to the Glade or watch as their beloved home vanishes like a bad dream...
+Pictures/RaymanOrigins.jpg
+BioShock Infinite
+Shooter
+M
+95
+The third game in the popular Bioshock series, BioShock Infinite breaks away from the underwater setting of the first two games to take players into a floating city held aloft by dirigibles. The game is set in 1912. You play as Booker DeWitt, a disgraced former private detective who's picked up a new case. Your goal is to find Elizabeth, a young woman who's gone missing and return her unharmed. The only problem is that she's being kept on this flying city. Columbia was once a symbol of America's success as a nation, floating around the world as a traveling World's Fair, a marvel of human innovation. But strange things have happened since Columbia's unveiling in 1900, and now the city has disappeared into the clouds. DeWitt knows how to find it, but over the years stories have been told about Columbia having unlawful heavy armament and deranged citizenry. Do not expect this to be a pleasure cruise.
+Pictures/BioInfinte.jpg
+Fez
+Platformer
+E
+95
+An innovative platforming game, Fez allows players to manipulate 2D platforming worlds in three dimensions -- with a quick tap, you can spin your flat world around to give you a new perspective and all-new gameplay area. Find hidden items placed on the opposite side of solid walls or bring a platform from miles away to right underneath your feet with just a simple spin of the world.
+Pictures/Fez.jpg
+Mark of the Ninja
+Action
+M
+90
+Hold your breath and slow your heart. You can't make a sound. You're a ninja. From the shadow of a deep doorway, you hear footsteps echoing in the alley, pacing back and forth. Out here the city is asleep, and there are few noises to cover you. Your hiding place keeps you safe, but it also blocks your view.The target is out here somewhere, but he's not alone...
+Pictures/MarkOfTheNinja.jpg
+Borderlands 2
+FPS
+M
+90
+Borderlands 2 is the epic sequel to the ultimate four-player role-playing shooter loot fest. Combining invention and evolution, Borderlands 2 features mixed online/split-screen co-op, all-new characters, skills, environments, enemies, weapons and equipment, which come together in an ambitiously crafted story. Players will reveal secrets, and escalate mysteries of the Borderlands universe as they adventure across the unexplored new areas of Pandora.
+Pictures/BorderLands2.jpg
+XCOM: Enemy Unknown - Elite Edition
+Strategy
+M
+82
+he original X-COM is widely regarded as one of the best games ever made and has now been re-imagined by the strategy experts at Firaxis Games. XCOM: Enemy Unknown will expand on that legacy with an entirely new invasion story, enemies and technologies to fight aliens and defend Earth. You will control the fate of the human race through researching alien technologies, creating and managing a fully operational base, planning combat missions and controlling soldier movement in battle.
+Pictures/Xcom.jpg
+Hotline Miami
+Action
+M
+88
+Step into the neon-soaked underground of 1980s Miami as bizarre messages on your answering machine seem to be urging you to commit terrible acts of violence -- but will you obey? Hotline Miami overflows with raw brutality and skull crushing close combat as you find yourself outgunned and using your wits to choreograph your way through impossible situations. An unmistakable visual style, a driving soundtrack, and a surreal plot that will have you question your own thirst for blood. Bash and blast through over 20 multiscreen levels with 35 unique weapons and collect 25 game-altering masks in one of the darkest and most unusual independent games on the scene.
+Pictures/Hotline.jpg
+Limbo
+Platformer
+T
+90
+Limbo challenges players with traversing dark forests, trap-filled underground complexes, and stormy rooftops brought to life with hand-drawn visuals. They must be quick, clever, and fearless if they want to survive their journey and unravel the mysteries at Limbo's sinister heart.
+Pictures/Limbo.jpg
+Batman: Arkham City Game of the Year Edition
+Action
+T
+95
+Batman: Arkham City builds upon the intense, atmospheric foundation of Batman: Arkham Asylum, sending players soaring into Arkham City, the new maximum security home for all of Gotham City's thugs, gangsters and insane criminal masterminds.
+Pictures/BatmanArk.jpg
+Portal
+FPS
+T
+82
+A unique take on puzzle gameplay by the makers of Half-Life. Portal is a new type of single player game that changes how players approach, manipulate, and surmise the possibilities in a given environment in a manner similar to how the Gravity Gun changed our approach to how an object may be leveraged in any given situation.
+Pictures/Portal.jpg
+The Walking Dead: The Game
+Adventure
+M
+93
+The living will have to survive amongst the dead in this game based on The Walking Dead, the widely acclaimed comic book series and television series. Across five dark and emotional episodes of gameplay, every decision and action you take can result in the entire story of the game changing around you.
+Pictures/TheWalkingDeadTheGame.jpg
+Minecraft
+Action
+E
+90
+Minecraft revolves around one simple principal: survival. The game is split into day and night cycles. During the day, you spend time gathering resources, whether it be searching for ore, digging holes, fishing or planting crops. Night is spent either indoors, mining underground tunnels, building tools or running around outside being chased by monsters.
+Pictures/Minecraft.jpg
+The Witcher 2: Assassins of Kings Enhanced Edition
+RPG
+M
+90
+The second installment in the RPG saga about the Witcher, Geralt of Rivia, features a thoroughly engrossing, mature storyline defining new standards for thought-provoking, non-linear game narration. In addition to an epic story, the game features an original, brutal combat system that uniquely combines tactical elements with dynamic action.
+Pictures/TheWitcher2.jpg
+Peggle
+Puzzle
+E
+90
+Wield mystifying Magic Powers, rack up huge bonus points and make shots you'll smile about for weeks. Amidst all this fevered action, only one question remains: Can you become a Peggle Master?
+Pictures/Peggle.jpg
+Call of Duty: Black Ops
+FPS
+M
+85
+Hear the call of duty once again with this seventh entry in this blockbuster first-person shooter franchise. Call of Duty: Black Ops takes you deep behind enemy lines into the world of deniable operations as a member of an elite special forces unit engaging in covert warfare, classified operations, and explosive conflicts across the globe. With access to a variety of exclusive weaponry and equipment, your actions will tip the balance during the most dangerous time period mankind has ever known.
+Pictures/Call_Of_Duty_Black_OPS.jpg
+Team Fortress 2
+FPS
+M
+89
+Team Fortress 2 (TF2) is the sequel to the game that put class-based, multiplayer team warfare on the map. The game delivers new gametypes, a signature art style powered by Valve's next generation animation technology, persistent player statistics, and more. Unlike other "class-based" games that offer a variety of combat classes only, Team Fortress 2 packs a wild variety of classes which provide a broad range of tactical abilities and personalities, and lend themselves to a variety of player skills. Play as the flame-throwing Pyro, the room clearing Heavy, or the Spy, a master of disguises. Other classes include: Scout, Sniper, Medic, Engineer, Demoman, or Soldier.
+Pictures/Team_Fortress_2.jpg
+Sid Meier's Civilization V
+Strategy
+E
+90
+The game features fully animated leaders interacting with players from a screen-filling diplomatic scene and speaking in their native language for the first time. Wars between empires feel massive as armies dominate the landscape, and combat is more exciting and intense than ever before. The addition of ranged bombardment allows players to fire weapons from behind the front lines, challenging players to develop clever strategies to guarantee victory on the battlefield. In addition, an extensive suite of community, modding and multiplayer elements also make an appearance.
+Pictures/Civ5.jpg

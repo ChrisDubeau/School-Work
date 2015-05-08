@@ -397,11 +397,11 @@ class Yard:
     def shipout(self):
         weight = 0 # a variable that keeps track of the weight of the containers shiped out
         count = 0 # keeps track of the number of containers shipped out
-        dest = input("What destinations do you want to send containers to") # gets the target destination from the user
+        dest = input("What destinations do you want to send containers to: \n") # gets the target destination from the user
         dest = dest.capitalize()
         first = self.locate(dest,self.FContainer) # finds the first container with a matching destination
         if first == 0: # if no containers have a matching destination
-            print("There are no container to go to that destination") # prints a message stating there are no containers
+            print("There are no container to go to that destination \n") # prints a message stating there are no containers
         else: # else there were containers
             st = first # keeps track of the first container
             while first.nt != None and first.destination == dest: # while the container equals the target
@@ -411,18 +411,18 @@ class Yard:
             if st.lt == None and first.destination != dest: # if the first container was the start
                 first.lt = None # makes the last container looked at point back to None
                 self.FContainer = first # makes thefirst container in the yard equal first
-                print("There were " + str(count) + " Containers shipped out weighing " + str(weight)) # prints out the final statment
+                print("There were " + str(count) + " Containers shipped out weighing " + str(weight) + "\n") # prints out the final statment
             elif st.lt != None and first.nt == None and first.destination == dest: # if the final container is the end of the list
                 weight += first.weight # adds the weight of the last container
                 count += 1 # adds 1 to the count of containers
                 st.lt.nt = None # makes the container before st point to None
-                print("There were " + str(count) + " Containers shipped out weighing " + str(weight)) # prints out the end statment
+                print("There were " + str(count) + " Containers shipped out weighing " + str(weight) + "\n") # prints out the end statment
             elif st.lt == None and first.nt == None and first.destination == dest: # if the all of the containers were shipped out
                 weight += first.weight # adds the weight of the last container to the count
                 count += 1 # increases the number of container by one
                 self.FContainer = None # sets the first container in the yard to none
-                print("There were " + str(count) + " Containers shipped out weighing " + str(weight)) # prints out the end statment
+                print("There were " + str(count) + " Containers shipped out weighing " + str(weight) + "\n") # prints out the end statment
             else: # if the containers sent out were in the middle of the list
                 st.lt.nt = first # sets the next pointer of the preceding container to point to the last container
                 first.lt = st.lt # sets the last container to point to the container preceding the ones being shipped out
-                print("There were " + str(count) + " Containers shipped out weighing " + str(weight)) # print the end statement
+                print("There were " + str(count) + " Containers shipped out weighing " + str(weight) + "\n") # print the end statement

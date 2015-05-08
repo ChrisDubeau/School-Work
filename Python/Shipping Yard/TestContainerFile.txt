@@ -1,0 +1,8 @@
+% 300000, Edmonton
+100002, Steve, 300
+100003, Steve, 400
+100000, Adam, 1300
+% 300002, Edmonton
+100004, Carl, 600
+% 300001, Toronto
+100001, Steve, 500

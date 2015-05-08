@@ -1,0 +1,60 @@
+Minecraft
+Sandbox
+E
+91
+Minecraft is a sandbox independent video game originally created by Swedish programmer Markus "Notch" Persson and later developed and published by the Swedish company Mojang since 2009.
+Pictures/minecraft.jpg
+Europa Universalis IV
+Strategy
+T
+93
+The award-winning series that is back with unprecedented flexibility, new options for imperial management, and the same deep commitment to historical gameplay that has made Europa Universalis the legendary franchise it is today. Prepare to join a worldwide community and experience the drama and tension that only the grand stage of history can provide. Europa Universalis IV gives you control of a nation to guide it through the years and create a dominant global empire, providing you unprecedented freedom in how you want to rule your nation.
+Pictures/EU4.jpg
+Quake III Arena
+Shooter
+M
+89
+Step right up and get your frag on with QUAKE III: Arena for the PC. Choose from a variety of weapons and a ton of maps and turn your opponents into dripping piles of flesh. You've got three gameplay options to choose from: against bots, a split-screen Four-Player mode, and network play, where you can go online and strut your stuff against some of the best players in the country.
+Pictures/Quake3.jpg
+Nexuiz
+Shooter
+M
+78
+For centuries the Kavussari and Forsellians have waged a galactic war. Over time the two races entered into treaties with the Herald Accord, a union between different cultures in the galaxy. Even though peace settled across their planets, the seething hatred between the races kept the fire of war simmering under the fragile truce. Sensing their newest members could spread war throughout the galaxy; the Herald Accord gave the Kavussari and Forsellians a choice. Pit their warriors against each other in the arena rather than on the fields of war, or face total annihilation. The Nexuiz was formed, a series of battle arenas on the home planets of the Kavussari, Forsellian and the ruined planet of Atavirta.
+Pictures/Nexuiz.jpg
+Counter-Strike
+Shooter
+M
+97
+Half-Life: Counter-Strike contains all the elements of the popular online multiplayer game originally built as an add-on for Half-Life. The team-based gameplay divides you into terrorist or antiterrorist squads. Each team has access to different real-world ammunition and equipment, and all players have unique attributes plus the ability to upgrade their gear after completing missions. Can you do it?
+Pictures/CS.jpg
+Half-Life
+Action-Adventure
+M
+91
+Half-Life, the debut title by Valve Software, took the PC gaming world by storm upon its release on November 19, 1998. Winning over 50 Game of the Year awards and selling more than eight million copies, Half-Life for a long time reigned as the best-selling FPS of all time. An alternate version of the game, called "Half-Life: Decay," was released for Playstation 2 on November 15, 2001 as well, offering different player characters and an all-new storyline.
+Pictures/HL.jpg
+Half-Life 2
+Action-Adventure
+M
+96
+Once again players assume the role of Gordon Freeman, a scientist destined to save the Earth from hordes of gruesome alien attackers. Half-Life 2 takes computer games to a new level of realism with incredible in-game graphics that recreate familiar-looking city streets, and blend them with strange and grotesque monsters, resulting in a believable and at times unsettling environment. Objects and characters feature accurate physics properties, behaving with the appropriate mass, density, and physical properties of their real-life counterparts. Extremely intelligent computer AI result in enemies that plan, adapt, and respond to the player's actions.
+Pictures/Half-Life_2.jpg
+Quake
+Shooter
+M
+83
+Quake was id Software's follow-up to the popular DOOM series, and the game that inspired one of the most active gaming communities on the internet. Quake is a true 3D first-person shooter and id quickly provided tools to the community to allow the creation of custom levels and gameplay modifications. Many of the most popular gameplay mods, including Capture the Flag and Team Fortress, came from the Quake community. If you are playing online, you will want to upgrade to the Quake World client which will enhance your gameplay.
+Pictures/Quake.jpg
+Team Fortress 2
+Shooter
+T
+87
+Team Fortress 2 (TF2) is the sequel to the game that put class-based, multiplayer team warfare on the map. The game delivers new gametypes, a signature art style powered by Valve's next generation animation technology, persistent player statistics, and more. Unlike other "class-based" games that offer a variety of combat classes only, Team Fortress 2 packs a wild variety of classes which provide a broad range of tactical abilities and personalities, and lend themselves to a variety of player skills. Play as the flame-throwing Pyro, the room clearing Heavy, or the Spy, a master of disguises. Other classes include: Scout, Sniper, Medic, Engineer, Demoman, or Soldier.
+Pictures/TF2.jpg
+OpenTTD
+Simulator
+E
+75
+OpenTTD is a free and open source 'urban planning and business simulation game', in which the player aims to earn money through transportation of passengers and freight by road, rail, water and air.
+Pictures/TTD.jpg
