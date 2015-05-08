@@ -1,0 +1,24 @@
+This Project is a simple program to maintain a simple shipping yard.
+The Shipping yard begins empty then as packages are added the program
+sorts the packages into containers set to a common destination.
+Inside each container the packages are sorted so that the heviest packages are
+at the bottom of the container and become lighter at the top. Each container is able
+to hold a total of 2000 in weight.
+It is all based on text in the command line. Load the two .py files into
+a single file and load in a python environment.
+
+After loading the program to run the command Main() will begin the program.
+You can then use the given commands(ex. a) to add, remove ship packages and containers
+
+Commands:
+  a = add a package in the order of Sender Destination Weight (ex. Steve Toronto 1500)
+  s = search for package in the order of PackageID Destination (ex. 100000 Montreal)
+  p = Prints the containers and packages(
+    md = manifest only for a given destination with the container being first then the packages in assending weights)
+    ma = prints information on all the containers and packages in them for the entire yard
+    cc = prints information for all containers in the yard)
+  r = remove a package in the order of PackageId Destination (ex. 100000 Montreal)
+  sh = Shipout containers for a destination in the order of Destination(ex.Toronto)
+  rc = read a container file into the shipping yard (a TestContainerFile.txt is provided, file must have .txt or such on end)
+  ra = reads a list of packages from a file into the shipping yard (TestPackageFile is provided file must have .txt or such on end)
+  w = writes a container file to a given exisiting file(file name must exist and entry must have .txt or such)
