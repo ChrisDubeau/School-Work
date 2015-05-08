@@ -82,8 +82,8 @@ def printmaze(b):
 # fails then opens a preset maze.txt and uses the maze class to set up the maze
 #******************************************************************************  
 def readfile():
-    File = input("what is the name of the file you want to load") # gets the file name
-    if File == ' ':
+    File = input("what is the name of the file you want to load: ") # gets the file name
+    if File == '':
         opened = testfile('maze1020')
     else:
         opened = testfile(File) # error cheker that returns a good file
