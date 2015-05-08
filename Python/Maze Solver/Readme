@@ -9,4 +9,6 @@ You can either type the name of a maze provided or hit enter without
 typing anything which will load maze1020. 
 
 If the maze files are not located in the same file as the MazeSolver.py
-you must enter the entire path to the maze file.
+you must enter the entire path to the maze file. 
+For example if the Maze is located in a file called Mazes
+and the file is maze510 you must enter Mazes/maze510
