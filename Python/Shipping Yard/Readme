@@ -14,11 +14,11 @@ Commands:
   a = add a package in the order of Sender Destination Weight (ex. Steve Toronto 1500)
   s = search for package in the order of PackageID Destination (ex. 100000 Montreal)
   p = Prints the containers and packages(
-    md = manifest only for a given destination with the container being first then the packages in assending weights)
+    md = prints information on containers to the given Destination
     ma = prints information on all the containers and packages in them for the entire yard
     cc = prints information for all containers in the yard)
   r = remove a package in the order of PackageId Destination (ex. 100000 Montreal)
   sh = Shipout containers for a destination in the order of Destination(ex.Toronto)
-  rc = read a container file into the shipping yard (a TestContainerFile.txt is provided, file must have .txt or such on end)
-  ra = reads a list of packages from a file into the shipping yard (TestPackageFile is provided file must have .txt or such on end)
-  w = writes a container file to a given exisiting file(file name must exist and entry must have .txt or such)
+  rc = read a container file into the shipping yard (a TestContainerFile.txt is provided must be entered with .txt)
+  ra = reads a list of packages from a file into the shipping yard (TestPackageFile is provided must be entered with .txt)
+  w = writes a container file to a given exisiting file(file name must exist and must be entered with .txt)
