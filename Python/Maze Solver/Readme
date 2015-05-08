@@ -1,0 +1,12 @@
+This program needs to have both MazeSolver.py and MazeSolverClass.py
+in the same file. Then use an IDE or python to compile the MazeSolver.py
+project. 
+
+After doing so type the command solver() into the command window,
+It should then ask for the name of the Maze you wish to solve.
+
+You can either type the name of a maze provided or hit enter without
+typing anything which will load maze1020. 
+
+If the maze files are not located in the same file as the MazeSolver.py
+you must enter the entire path to the maze file.
